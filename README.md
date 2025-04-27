@@ -72,5 +72,5 @@ streamlit run app.py
 
 Happy Coding! 🚀
 
-By- Tanmay Singh
+By- Raghav Bansal
 ```
